@@ -1,0 +1,20 @@
+{
+  "name": "fiza_cli_todo_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fiza",
+  "license": "MIT",
+  "description": "A simple and interactive CLI-based Todo application that allows users to manage their tasks efficiently. Users can add, view, mark as complete, and delete tasks.",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
